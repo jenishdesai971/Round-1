@@ -4,7 +4,7 @@ Objective Replicate the "Legal Work Platform" hero section shown in the design s
 
 Design Assets
 
-Reference Image: (The image you provided)
+Reference Image: <img width="1440" height="862" alt="Chota Landing Page" src="https://github.com/user-attachments/assets/8d6f8977-f434-47bf-bb99-7fe66b72758c" />
 
 Icons: Use an icon library like lucide-react or heroicons (e.g., Gavel for "Matters", FileText for "Documents", CheckSquare for "Tasks").
 
