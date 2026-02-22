@@ -37,6 +37,16 @@ Visual Polish
 
 Match the typography hierarchy (H1 vs. subtext).
 
+Bonus (Extra Marks ⭐)
+
+Candidates will receive extra marks if they implement:
+
+🌙 Dark Mode Support
+
+✨ Subtle Animations (e.g., floating motion, hover effects, fade-in transitions)
+
+⚡ Smooth entrance animations using Framer Motion or CSS
+
 Technical Stack
   Framework: Next.js 14+ (App Router).
 
